@@ -10,7 +10,7 @@ import UIKit
 class ViewController: UIViewController {
 
     var firstFacts = [
-        "My family originates from Guatemala", "I'm addicted to exercising", "I grew up in Maryland"
+        "My family originates from Guatemala", "I'm addicted to exercising", "I grew up in Maryland", "This is my third time at Kode with Klossy", "I have attended a hackathon called Technica", "I want to study Cyber Security", "I attend an online charter school called CCA", "I am the oldest of three", "I'm goign to be a senior in high school"
     ]
     
     var secondFacts = [
